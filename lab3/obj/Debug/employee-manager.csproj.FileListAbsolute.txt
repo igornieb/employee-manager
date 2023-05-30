@@ -1,0 +1,11 @@
+C:\Users\igorn\Desktop\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\igorn\Desktop\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\igorn\Desktop\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\igorn\Desktop\lab3\lab3\obj\Debug\employee-manager.csproj.AssemblyReference.cache
+C:\Users\igorn\Desktop\lab3\lab3\obj\Debug\employee-manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\igorn\Desktop\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\igorn\Desktop\lab3\lab3\obj\Debug\lab3.Form1.resources
+C:\Users\igorn\Desktop\lab3\lab3\obj\Debug\employee-manager.csproj.GenerateResource.cache
+C:\Users\igorn\Desktop\lab3\lab3\obj\Debug\employee-manager.csproj.CoreCompileInputs.cache
+C:\Users\igorn\Desktop\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\igorn\Desktop\lab3\lab3\obj\Debug\lab3.pdb
